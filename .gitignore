@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.class
+android.jar
+r8.jar
+bundletool.jar
+compiled_res.zip
+unaligned.apk
+aligned.apk
+unsigned.aab
+base.zip
+src/
+res/
+app-release.apk
+app-release.aab
